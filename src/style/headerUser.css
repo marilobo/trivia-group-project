@@ -1,0 +1,52 @@
+.header-user {
+  align-items: center;
+  background-color: rgb(144, 78, 211);
+  box-shadow: 0 2px 4px rgba(42, 4, 42, 0.555);
+  display: flex;
+  gap: 20px;
+  height: 100px;
+  justify-content: flex-end;
+  padding-right: 40px;
+}
+
+.img-gravatar {
+  border-radius: 100%;
+  margin-right: -5px;
+  width: 40px;
+}
+
+.score {
+  align-items: center;
+  display: flex;
+}
+
+.total-score {
+  background-color: rgb(232, 212, 251);
+  border-radius: 100%;
+  color: rgb(160, 47, 201);
+  font-size: 20px;
+  font-weight: 600;
+  padding: 3px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.title-score, .player {
+  align-items: center;
+  color: rgb(232, 212, 251);
+  display: flex;
+  font-size: 18px;
+  font-weight: 600;
+  margin-right: 5px;
+}
+
+.star {
+  color: rgba(235, 217, 16, 0.899);
+  font-size: 25px;
+  margin-right: 5px;
+}
+
+.player {
+  margin-right: 50px;
+}
+
