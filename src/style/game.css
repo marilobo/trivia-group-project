@@ -186,7 +186,7 @@ h1 {
   margin: 70px;
   margin-bottom: -280px;
   position: relative;
-  right: 215px;
+  right: 230px;
   rotate: -45deg;
   transform: rotate(-45deg);
   width: 150px;
@@ -240,7 +240,7 @@ h1 {
   animation: pulse 3s linear 0s infinite;
   font-family: Emilys Candy , cursive;
   font-size: 55px;
-  left: -150px;
+  left: -163px;
   letter-spacing: 4px;
   margin-bottom: 40px;
   position: absolute;
